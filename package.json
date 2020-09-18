@@ -1,0 +1,17 @@
+{
+  "name": "@deskeen/web-builder-add-hash-filename",
+  "version": "0.1.0",
+  "description": "Web Builder Module - Add Hash to Filename",
+  "author": "Morgan Schmiedt",
+  "license": "MIT",
+  "repository": "https://github.com/deskeen/web-builder-add-hash-filename",
+  "keywords": [
+    "build",
+    "website",
+    "node.js",
+    "hash",
+    "filename",
+    "cache"
+  ],
+  "main": "src/module.js"
+}
